@@ -8,10 +8,22 @@
 ### Javascript
 * [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [AngularJS Fan](https://www.youtube.com/channel/UCvFTr_YuMGr0jSCm1b4Xubw)
+* [TheEvilSoft](https://www.youtube.com/channel/UCc8LoGpIa8tRNosGGJroS2Q)
+
+### Python
+* [PythonHow](https://www.youtube.com/channel/UC1nNFFS_9m8uuHOfwz8AK0w)
+
+### C/C++
+* [Paul Programming](https://www.youtube.com/channel/UCcDGsN3JxMavDkM9INRLGFA)
+* [thecplusplusguy](https://www.youtube.com/channel/UC6A2B9G_y-fzAXEu2hHPlMg)
+
+### CS
+* [Andrew Tanenbaum](https://www.youtube.com/channel/UCGE79COc35OCPu7UQJYILQw)
+* [ComputerHistory](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
+* [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
 
 ### Unsorted
 * [AlgorithMan.de](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
-* [Andrew Tanenbaum](https://www.youtube.com/channel/UCGE79COc35OCPu7UQJYILQw)
 * [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
 * [Brad Hussey](https://www.youtube.com/user/hussey17)
@@ -27,7 +39,6 @@
 * [Coder's Guide - Neil Rowe](https://www.youtube.com/channel/UCwHrYi0GL6dmYaRB0StEbEA)
 * [Coding Tutorials 360](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
 * [CodingEntrepreneurs](https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg)
-* [ComputerHistory](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 * [Continuum Analytics](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
 * [coursera](https://www.youtube.com/channel/UCZ50rYSkYQG31YDEJm9Di_g)
@@ -75,9 +86,7 @@
 * [OhHeyItsLou](https://www.youtube.com/channel/UC3qmmCSc7VnbuTyxg94am4Q)
 * [OSFirstTimer](https://www.youtube.com/channel/UCRjXNz9JNSuE8n-Oej4Rflw)
 * [paul caggegi](https://www.youtube.com/channel/UC7YYVsDWfY2ng4QPCOcv-Eg)
-* [Paul Programming](https://www.youtube.com/channel/UCcDGsN3JxMavDkM9INRLGFA)
 * [Philip Bohun](https://www.youtube.com/channel/UChEygfZo7SZ64E0mp038Jvg)
-* [PythonHow](https://www.youtube.com/channel/UC1nNFFS_9m8uuHOfwz8AK0w)
 * [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
 * [Ravi Bedre](https://www.youtube.com/channel/UCyerzdrYAcO88ZWLn8_zjFQ)
 * [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)
@@ -90,10 +99,7 @@
 * [Tech CBT](https://www.youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw)
 * [Tech Guru Awaaz](https://www.youtube.com/channel/UCx1Ab4XTsaqu-cKEqTf_RLQ)
 * [Tech Talk](https://www.youtube.com/channel/UCGyywIPaj_93oKUezytr3qw)
-* [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
 * [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
-* [thecplusplusguy](https://www.youtube.com/channel/UC6A2B9G_y-fzAXEu2hHPlMg)
-* [TheEvilSoft](https://www.youtube.com/channel/UCc8LoGpIa8tRNosGGJroS2Q)
 * [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
 * [thoughtbot](https://www.youtube.com/channel/UCUR1pFG_3XoZn3JNKjulqZg)
 * [Tinkernut](https://www.youtube.com/channel/UCZDA1kA3y3EIg25BpcHSpwQ)
@@ -101,5 +107,4 @@
 * [VoidRealms](https://www.youtube.com/channel/UCYP0nk48grsMwO3iL8YaAKA)
 * [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA)
 * [WebConcepts](https://www.youtube.com/channel/UCV4-mrR8UZh6AsWZbmW5uhQ)
-* [YUI Library](https://www.youtube.com/channel/UCTHcgWOTU6gPje1g_U29tfQ)
 * [YUI Library](https://www.youtube.com/channel/UCTHcgWOTU6gPje1g_U29tfQ)
