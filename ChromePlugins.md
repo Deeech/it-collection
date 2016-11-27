@@ -6,4 +6,4 @@
 * [Conferences](https://github.com/Deeech/it-collection/blob/master/Conferences.md)
 
 
-# Sublime Text Packages
+# Chrome Plugins

@@ -6,4 +6,6 @@
 * [Conferences](https://github.com/Deeech/it-collection/blob/master/Conferences.md)
 
 
-# Sublime Text Packages
+# Conferences
+* [SeleniumConf UK](https://www.youtube.com/channel/UCtqHXVoR7QSJARfhZ4dts1g)
+* [applicake](https://www.youtube.com/user/applicake/)
