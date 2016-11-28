@@ -10,3 +10,4 @@
 * [SeleniumConf UK](https://www.youtube.com/channel/UCtqHXVoR7QSJARfhZ4dts1g)
 * [applicake](https://www.youtube.com/user/applicake/)
 * [JSConf](https://www.youtube.com/user/jsconfeu)
+* [Nordicjs](https://www.youtube.com/user/nordicjs)
