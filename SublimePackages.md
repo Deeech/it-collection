@@ -7,3 +7,4 @@
 
 
 # Sublime Text Packages
+* [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn) - The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
