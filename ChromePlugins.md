@@ -7,4 +7,10 @@
 
 
 # Chrome Plugins
-* [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn) - The BuiltWith Chrome Extension lets you find out what a website is built with by a simple click on the builtwith icon!
+* [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn) - Find out what the website you are visiting is built with using this extension.
+* [Instant Wireframe](https://chrome.google.com/webstore/detail/instant-wireframe/pmpmnmbgidlnoamkpmcikaejhmeldnha) - View any web page as a wireframe. Instantly!
+* [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter
+* [Page Eraser](https://chrome.google.com/webstore/detail/page-eraser/ekofpchjmoalonajopdeegdappocgcmj) - Easily erase unwanted elements from web pages
+* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) - Draw a ruler to get pixel dimensions and positioning, and measure elements on any web page.
+* [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - This extension helps develop your websites with per pixel accuracy!
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identifies software on the web
