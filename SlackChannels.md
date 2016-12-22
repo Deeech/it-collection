@@ -8,3 +8,4 @@
 
 
 # Slack Channels
+* [Slack Roulette](http://slackroulette.com/) - It's time for talky! Join the #slackroulette community and anonymously chat to slackers from anywhere.
