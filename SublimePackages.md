@@ -11,4 +11,4 @@
 ## EasyMotion
 ![Animated Gif](https://raw.github.com/tednaleid/sublime-EasyMotion/add_images/images/easymotion.gif)
 
-[EasyMotion]() is a [Sublime Text 2](http://www.sublimetext.com/2) plugin that allows you to move the cursor to any character in your current view.
+[EasyMotion](https://github.com/tednaleid/sublime-EasyMotion) is a [Sublime Text 2](http://www.sublimetext.com/2) plugin that allows you to move the cursor to any character in your current view.
