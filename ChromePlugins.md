@@ -36,7 +36,7 @@
 ![Web Developer Checklist](https://lh3.googleusercontent.com/spgBtj7rFO-ib6mUQvqVRd8ullxwIErF-uqB_iA_KW7STKcV32outt8lTzfmfewTAniHCMeaNw=s1280-h800-e365-rw)
 
 ## [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
-![React Developer Tools](https://lh4.googleusercontent.com/RO9s2sb_dmJ3NZqSFIFwYzix16uJbk3WS91GRSIWkj_jjvXqpuOBZjnP8k5EFUIoT46ccSA39A=s1280-h800-e365-rw_
+![React Developer Tools](https://lh4.googleusercontent.com/RO9s2sb_dmJ3NZqSFIFwYzix16uJbk3WS91GRSIWkj_jjvXqpuOBZjnP8k5EFUIoT46ccSA39A=s1280-h800-e365-rw)
 
 ## [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub and GitLab.
 ![Octotree](https://lh3.googleusercontent.com/mhU96i_fm1grjKQRkKQKm8G1MUX6Bw1YllQ_RvvXdCUVE51-6ZPQu-Em68cdlGVIIcNOGF61xLk=s1280-h800-e365-rw)
