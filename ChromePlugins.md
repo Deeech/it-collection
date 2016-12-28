@@ -19,5 +19,5 @@
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) - Analyses any web page for violations of best practices
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
 
+## [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub and GitLab.
 ![Octotree](https://lh3.googleusercontent.com/mhU96i_fm1grjKQRkKQKm8G1MUX6Bw1YllQ_RvvXdCUVE51-6ZPQu-Em68cdlGVIIcNOGF61xLk=s1280-h800-e365-rw)
-[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub and GitLab.
