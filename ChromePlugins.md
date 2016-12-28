@@ -18,7 +18,7 @@
 ![OneTab](https://lh3.googleusercontent.com/k6jRtnVqZaQ7hV5TCabzCwmneLsCSugCeZp4L5IgzIELBHyI0DJluJ0urxAoLdLAHsIQYFbNsQ=s1280-h800-e365-rw)
 
 ## [Page Eraser](https://chrome.google.com/webstore/detail/page-eraser/ekofpchjmoalonajopdeegdappocgcmj) - Easily erase unwanted elements from web pages.
-![Page Eraser](https://youtu.be/SkDh0mAJXw4)
+[![Page Eraser](https://img.youtube.com/vi/SkDh0mAJXw4/0.jpg)](https://www.youtube.com/watch?v=SkDh0mAJXw4)
 
 ## [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) - Draw a ruler to get pixel dimensions and positioning, and measure elements on any web page.
 ![Page Ruler](https://lh4.googleusercontent.com/ryGefrHm0ZmiLpJXKjzJHpU6OGK6on1bcQGYYBQL-EVRhbmvb1kkwJxdOwAnHvFLERKfMUT6YA=s1280-h800-e365-rw)
