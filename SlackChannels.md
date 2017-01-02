@@ -9,3 +9,4 @@
 
 # Slack Channels
 * [Slack Roulette](http://slackroulette.com/) - It's time for talky! Join the #slackroulette community and anonymously chat to slackers from anywhere.
+* [Erlang](https://erlang-slack.herokuapp.com/) - A Slack group for discussing the Erlang programming language. Includes general and learning channels.
