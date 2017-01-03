@@ -5,6 +5,7 @@
 * [Chrome Plugins](https://github.com/Deeech/it-collection/blob/master/ChromePlugins.md)
 * [Conferences](https://github.com/Deeech/it-collection/blob/master/Conferences.md)
 * [Slack Channels](https://github.com/Deeech/it-collection/blob/master/SlackChannels.md)
+* [Other Collections](https://github.com/Deeech/it-collection/blob/master/OtherCollections.md)
 
 
 # Sublime Text Packages

@@ -8,9 +8,4 @@
 * [Other Collections](https://github.com/Deeech/it-collection/blob/master/OtherCollections.md)
 
 
-# Conferences
-* [SeleniumConf UK](https://www.youtube.com/channel/UCtqHXVoR7QSJARfhZ4dts1g)
-* [applicake](https://www.youtube.com/user/applicake/)
-* [JSConf](https://www.youtube.com/user/jsconfeu)
-* [Nordicjs](https://www.youtube.com/user/nordicjs)
-* [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
+# Other Collections.
