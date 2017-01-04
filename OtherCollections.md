@@ -10,3 +10,4 @@
 
 # Other Collections.
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+* [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
