@@ -9,3 +9,4 @@
 
 
 # Other Collections.
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
