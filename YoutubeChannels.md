@@ -28,6 +28,7 @@
 * [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
 
 ### Unsorted
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 * [AlgorithMan.de](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
 * [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
