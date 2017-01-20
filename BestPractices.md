@@ -10,5 +10,5 @@
 * [Best Practices](https://github.com/Deeech/it-collection/blob/master/BestPractices.md)
 
 
-# Slack Channels
+# Best Practices
 * [restapitutorial](http://www.restapitutorial.com/) - REST API Best Practices.
