@@ -8,3 +8,7 @@
 * [Other Collections](https://github.com/Deeech/it-collection/blob/master/OtherCollections.md)
 * [Questions an Problems](https://github.com/Deeech/it-collection/blob/master/QuestsAndProblms.md)
 * [Best Practices](https://github.com/Deeech/it-collection/blob/master/BestPractices.md)
+
+
+# Slack Channels
+* [restapitutorial](http://www.restapitutorial.com/) - REST API Best Practices.
