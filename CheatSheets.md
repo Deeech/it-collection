@@ -9,3 +9,8 @@
 * [Questions an Problems](https://github.com/Deeech/it-collection/blob/master/QuestsAndProblms.md)
 * [Best Practices](https://github.com/Deeech/it-collection/blob/master/BestPractices.md)
 * [Chear Sheets](https://github.com/Deeech/it-collection/blob/master/CheatSheets.md)
+
+
+# Chear Sheets
+* [Conda](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
+* [Anaconda](https://docs.continuum.io/_downloads/Anaconda_CheatSheet.pdf)
