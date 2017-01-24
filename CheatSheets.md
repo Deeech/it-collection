@@ -14,3 +14,4 @@
 # Chear Sheets
 * [Conda](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 * [Anaconda](https://docs.continuum.io/_downloads/Anaconda_CheatSheet.pdf)
+* [reactcheatsheet](http://reactcheatsheet.com/)
