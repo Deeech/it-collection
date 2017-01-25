@@ -8,4 +8,4 @@
 * [Other Collections](https://github.com/Deeech/it-collection/blob/master/OtherCollections.md)
 * [Questions an Problems](https://github.com/Deeech/it-collection/blob/master/QuestsAndProblms.md)
 * [Best Practices](https://github.com/Deeech/it-collection/blob/master/BestPractices.md)
-* [Chear Sheets](https://github.com/Deeech/it-collection/blob/master/CheatSheets.md)
+* [Cheat Sheets](https://github.com/Deeech/it-collection/blob/master/CheatSheets.md)
