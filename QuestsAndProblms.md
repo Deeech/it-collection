@@ -15,3 +15,4 @@
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Topcoder](https://www.topcoder.com/)
 * [Interviewe Cake](https://www.interviewcake.com/)
+* [Javascript quiz. ES6 edition](http://perfectionkills.com/javascript-quiz-es6/)
