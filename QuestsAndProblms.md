@@ -16,3 +16,4 @@
 * [Topcoder](https://www.topcoder.com/)
 * [Interviewe Cake](https://www.interviewcake.com/)
 * [Javascript quiz. ES6 edition](http://perfectionkills.com/javascript-quiz-es6/)
+* [ES6 quiz, explained](https://gist.github.com/DmitrySoshnikov/3928607cb8fdba42e712)
