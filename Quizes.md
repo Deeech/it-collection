@@ -12,7 +12,4 @@
 * [Quizes](https://github.com/Deeech/it-collection/blob/master/Quizes.md)
 
 
-# Chear Sheets
-* [Conda](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
-* [Anaconda](https://docs.continuum.io/_downloads/Anaconda_CheatSheet.pdf)
-* [reactcheatsheet](http://reactcheatsheet.com/)
+# Quizes
