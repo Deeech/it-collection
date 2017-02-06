@@ -16,3 +16,4 @@
 * [Conda](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 * [Anaconda](https://docs.continuum.io/_downloads/Anaconda_CheatSheet.pdf)
 * [reactcheatsheet](http://reactcheatsheet.com/)
+* [50+ Data Science, Machine Learning Cheat Sheets](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
