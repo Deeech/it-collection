@@ -31,6 +31,9 @@
 * [ComputerHistory](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
 * [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
 
+### Machine Learning
+* [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
+
 ### Unsorted
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 * [AlgorithMan.de](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
