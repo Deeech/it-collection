@@ -35,6 +35,7 @@
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
 ### Unsorted
+* [Udacity](https://www.youtube.com/user/Udacity)
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 * [AlgorithMan.de](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
 * [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
