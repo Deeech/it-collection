@@ -10,6 +10,7 @@
 * [Best Practices](https://github.com/Deeech/it-collection/blob/master/BestPractices.md)
 * [Cheat Sheets](https://github.com/Deeech/it-collection/blob/master/CheatSheets.md)
 * [Quizes](https://github.com/Deeech/it-collection/blob/master/Quizes.md)
+* [Books](https://github.com/Deeech/it-collection/blob/master/Books.md)
 
 
 # Sublime Text Packages
