@@ -22,3 +22,4 @@
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript language.
 * [terminals-are-sexy](https://github.com/Jabher/terminals-are-sexy) -  A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -  An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
