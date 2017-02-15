@@ -31,6 +31,7 @@
 * [Andrew Tanenbaum](https://www.youtube.com/channel/UCGE79COc35OCPu7UQJYILQw)
 * [ComputerHistory](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
 * [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
+* [coursera](https://www.youtube.com/channel/UCZ50rYSkYQG31YDEJm9Di_g)
 
 ### Machine Learning
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
@@ -56,7 +57,6 @@
 * [CodingEntrepreneurs](https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg)
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 * [Continuum Analytics](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
-* [coursera](https://www.youtube.com/channel/UCZ50rYSkYQG31YDEJm9Di_g)
 * [Crit TV](https://www.youtube.com/channel/UCNovoA9w0KnxyDP5bGrOYzg)
 * [Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
