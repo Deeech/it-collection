@@ -16,3 +16,4 @@
 # Books
 * [React In-depth](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+* [craftinginterpreters](http://craftinginterpreters.com/) - A handbook for making programming languages.
