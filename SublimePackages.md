@@ -23,3 +23,8 @@
 ![Bracket Hightlighter](https://github.com/facelessuser/BracketHighlighter/raw/master/docs/images/Example1.png)
 
 Bracket Highlighter matches a variety of brackets such as: `[]`, `()`, `{}`, `""`, `''`, `#!xml <tag></tag>`, and even custom brackets.
+
+## [Sublime Tutor](https://packagecontrol.io/packages/Sublime%20Tutor)
+![Sublime Tutor](https://packagecontrol.io/readmes/img/8a876ea4cb149d10e5df5430a18daaca58e88603.jpg)
+
+An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3.
