@@ -32,23 +32,27 @@
 * [ComputerHistory](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
 * [The Computer Chronicles](https://www.youtube.com/channel/UCkJ6eQKpHZgsZBla4JgKj3A)
 * [coursera](https://www.youtube.com/channel/UCZ50rYSkYQG31YDEJm9Di_g)
+* [Udacity](https://www.youtube.com/user/Udacity)
+* [Cloud & Bigdata](https://www.youtube.com/channel/UCkeyCn3QL6G5Xo0MI29DtTA)
 
 ### Machine Learning
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
+### 3D
+* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
+
+### OS
+* [Kai Hendry](https://www.youtube.com/channel/UCFzGyNKXPAglNq28qWYTDFA)
+
 ### Unsorted
-* [Udacity](https://www.youtube.com/user/Udacity)
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 * [AlgorithMan.de](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
 * [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
-* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
 * [Brad Hussey](https://www.youtube.com/user/hussey17)
 * [Brent Farris](https://www.youtube.com/channel/UCStD9dM0fAPxyJqrWWwFHPQ)
 * [Cave of Programming](https://www.youtube.com/channel/UCnAdXkr17iQS8YcYl0LhPdw)
 * [Ch-Ch-Check It](https://www.youtube.com/channel/UCuwZ2IZ2pAy4ZOLEtmuApyQ)
 * [Circle Line Art School](https://www.youtube.com/channel/UCVQxmyIOutGT4lmWlDN9pmA)
-* [Cloud & Bigdata](https://www.youtube.com/channel/UCkeyCn3QL6G5Xo0MI29DtTA)
-* [Cloud & Bigdata](https://www.youtube.com/channel/UCkeyCn3QL6G5Xo0MI29DtTA)
 * [Code School](https://www.youtube.com/channel/UCUFbBYzSUafxMpUbTmroGhg)
 * [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
 * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
@@ -81,7 +85,6 @@
 * [iTzAdam5X](https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA)
 * [Jamie King](https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
 * [JetBrainsTV](https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow)
-* [Kai Hendry](https://www.youtube.com/channel/UCFzGyNKXPAglNq28qWYTDFA)
 * [Learn Programming](https://www.youtube.com/channel/UCl6LBhDkAt6a5kcKDvBumAw)
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [LearningLad](https://www.youtube.com/channel/UCvxAt_WebjZ_-pMsxpraROg)
