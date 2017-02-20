@@ -21,6 +21,7 @@
 * [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript language.
-* [terminals-are-sexy](https://github.com/Jabher/terminals-are-sexy) -  A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -  An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
-* [awesome-gamesofcoding](https://github.com/michelpereira/awesome-gamesofcoding) -  A curated list of games that can teach you how to learn a programming language.
+* [terminals-are-sexy](https://github.com/Jabher/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
+* [awesome-gamesofcoding](https://github.com/michelpereira/awesome-gamesofcoding) - A curated list of games that can teach you how to learn a programming language.
+* [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
