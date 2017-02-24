@@ -26,6 +26,7 @@
 ### C/C++
 * [Paul Programming](https://www.youtube.com/channel/UCcDGsN3JxMavDkM9INRLGFA)
 * [thecplusplusguy](https://www.youtube.com/channel/UC6A2B9G_y-fzAXEu2hHPlMg)
+* [Jamie King](https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
 
 ### CS
 * [Andrew Tanenbaum](https://www.youtube.com/channel/UCGE79COc35OCPu7UQJYILQw)
@@ -34,15 +35,20 @@
 * [coursera](https://www.youtube.com/channel/UCZ50rYSkYQG31YDEJm9Di_g)
 * [Udacity](https://www.youtube.com/user/Udacity)
 * [Cloud & Bigdata](https://www.youtube.com/channel/UCkeyCn3QL6G5Xo0MI29DtTA)
+* [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
+* [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 
 ### Machine Learning
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
 ### 3D
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
+* [GameGeek](https://www.youtube.com/channel/UCb-a_DDn5pAJNUGSdSwonmg)
 
 ### OS
 * [Kai Hendry](https://www.youtube.com/channel/UCFzGyNKXPAglNq28qWYTDFA)
+* [LinuxAcademy.com](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
+* [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 
 ### Unsorted
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
@@ -72,7 +78,6 @@
 * [ENGINEERED TRUTH](https://www.youtube.com/channel/UChj0w0duKtp7SDd_X9CNptw)
 * [Enthought](https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A)
 * [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* [GameGeek](https://www.youtube.com/channel/UCb-a_DDn5pAJNUGSdSwonmg)
 * [Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
 * [gene howell](https://www.youtube.com/channel/UCe1inKOjGSSfMmc-lsR5fOg)
 * [Glen Rhodes](https://www.youtube.com/channel/UCUG_ZRgKgBAl21Uy0JjGtaQ)
@@ -83,7 +88,6 @@
 * [I'm Designer](https://www.youtube.com/channel/UC7i8XymNVC4W7SF9GoIW_5Q)
 * [IKnow](https://www.youtube.com/channel/UCofr5KcAmI_CB_tCYpVzZEw)
 * [iTzAdam5X](https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA)
-* [Jamie King](https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
 * [JetBrainsTV](https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow)
 * [Learn Programming](https://www.youtube.com/channel/UCl6LBhDkAt6a5kcKDvBumAw)
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
@@ -91,12 +95,10 @@
 * [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 * [Left Peel](https://www.youtube.com/channel/UC9-58hKjwQiD-RkH6Qu1lFQ)
 * [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-* [LinuxAcademy.com](https://www.youtube.com/channel/UClGShptNEuvTWGAAfpa2Etw)
 * [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ)
 * [Master Indie](https://www.youtube.com/channel/UCV0Jhu5jv9OsV19TmqHEt_g)
 * [Metalstache](https://www.youtube.com/channel/UC_0EpDGdq2lBVlUcFKs2mKg)
 * [Mini Tips & Tricks](https://www.youtube.com/channel/UCLp_-eDU0HdA-R0OJcFp3_A)
-* [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 * [mybringback](https://www.youtube.com/channel/UCHALE0WtcSB1E0dt7IaGqWA)
 * [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 * [Next Day Video](https://www.youtube.com/channel/UCQ7dFBzZGlBvtU2hCecsBBg)
@@ -112,12 +114,10 @@
 * [saurabhschool](https://www.youtube.com/channel/UCZSfwNcYIpqO8B9wnBg4HWA)
 * [ShellWaveX](https://www.youtube.com/channel/UCp_y-6XZnURs0WR8-7yJZMw)
 * [Skip Wilson](https://www.youtube.com/channel/UCuD-wbMZDn2C2_GwcMqterg)
-* [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
 * [Steamworks Development](https://www.youtube.com/channel/UCStZs-X5W6V3TFJLnwkzN5w)
 * [Tech CBT](https://www.youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw)
 * [Tech Guru Awaaz](https://www.youtube.com/channel/UCx1Ab4XTsaqu-cKEqTf_RLQ)
 * [Tech Talk](https://www.youtube.com/channel/UCGyywIPaj_93oKUezytr3qw)
-* [The Linux Foundation](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 * [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
 * [thoughtbot](https://www.youtube.com/channel/UCUR1pFG_3XoZn3JNKjulqZg)
 * [Tinkernut](https://www.youtube.com/channel/UCZDA1kA3y3EIg25BpcHSpwQ)
