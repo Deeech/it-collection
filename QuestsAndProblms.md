@@ -16,6 +16,7 @@
 # Questions and Problems
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript.
+* [coding-interview](http://blog.sapegin.me/all/coding-interview) - A Few Notes about Web Developer’s Interviews.
 * [Topcoder](https://www.topcoder.com/)
 * [Interviewe Cake](https://www.interviewcake.com/)
 * [Javascript quiz. ES6 edition](http://perfectionkills.com/javascript-quiz-es6/)
