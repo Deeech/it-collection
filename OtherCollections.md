@@ -25,3 +25,4 @@
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!
 * [awesome-gamesofcoding](https://github.com/michelpereira/awesome-gamesofcoding) - A curated list of games that can teach you how to learn a programming language.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
+* [terminalsare.sexy](http://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
