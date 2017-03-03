@@ -26,3 +26,4 @@
 * [awesome-gamesofcoding](https://github.com/michelpereira/awesome-gamesofcoding) - A curated list of games that can teach you how to learn a programming language.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * [terminalsare.sexy](http://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [Auth-Boss](https://github.com/teesloane/Auth-Boss) - Become an Auth Boss. Learn about different authentication methodologies on the web.
