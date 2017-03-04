@@ -16,3 +16,4 @@
 # Best Practices
 * [restapitutorial](http://www.restapitutorial.com/) - REST API Best Practices.
 * [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - This guide provides a uniform way to structure your Vue.js code.
+* [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.e0vzsljiv)
