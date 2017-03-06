@@ -19,3 +19,4 @@
 * [JSConf](https://www.youtube.com/user/jsconfeu)
 * [Nordicjs](https://www.youtube.com/user/nordicjs)
 * [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
+* [SFNode](https://www.youtube.com/channel/UCbWHWaCKZqIm5pE5hSD7KFw)
