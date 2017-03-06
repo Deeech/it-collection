@@ -28,3 +28,4 @@
 * [terminalsare.sexy](http://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [Auth-Boss](https://github.com/teesloane/Auth-Boss) - Become an Auth Boss. Learn about different authentication methodologies on the web.
 * [Youtube Channels (rus)](https://proglib.io/p/frontend-youtube-channels/)
+* [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
