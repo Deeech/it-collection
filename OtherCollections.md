@@ -29,3 +29,4 @@
 * [Auth-Boss](https://github.com/teesloane/Auth-Boss) - Become an Auth Boss. Learn about different authentication methodologies on the web.
 * [Youtube Channels (rus)](https://proglib.io/p/frontend-youtube-channels/)
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+* [React FAQ](https://reactfaq.site/) - This guide aims to pull together quality content about React core concepts into a central location for quick reference.
