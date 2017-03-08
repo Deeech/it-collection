@@ -31,3 +31,4 @@
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 * [React FAQ](https://reactfaq.site/) - This guide aims to pull together quality content about React core concepts into a central location for quick reference.
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
+* [pseudo_elements](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a) - A CSS pseudo-element is used to style specified parts of an element. In some cases you can style native HTML controls with vendor specific pseudo-elements. Here you will find an list of cross browser specific pseudo-element selectors.
