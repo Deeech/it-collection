@@ -30,3 +30,4 @@
 * [Youtube Channels (rus)](https://proglib.io/p/frontend-youtube-channels/)
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 * [React FAQ](https://reactfaq.site/) - This guide aims to pull together quality content about React core concepts into a central location for quick reference.
+* [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
