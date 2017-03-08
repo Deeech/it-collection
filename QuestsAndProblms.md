@@ -39,3 +39,4 @@
 * [Exercism](http://exercism.io/)
 * [InterviewBit](https://www.interviewbit.com/)
 * [Rosalind](http://rosalind.info/problems/locations/)
+* [javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself learning and understanding the most obscure and tricky parts of Javascript.
