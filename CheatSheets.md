@@ -21,3 +21,4 @@
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Data Stack Overview version 1.0](https://www.dropbox.com/s/pfbc3xcbdygmybc/Liip%20Data%20Stack.pdf?dl=0)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [ricostacruz](http://ricostacruz.com/cheatsheets/)
