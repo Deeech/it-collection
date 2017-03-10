@@ -34,3 +34,4 @@
 * [pseudo_elements](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a) - A CSS pseudo-element is used to style specified parts of an element. In some cases you can style native HTML controls with vendor specific pseudo-elements. Here you will find an list of cross browser specific pseudo-element selectors.
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
 * [dev-books.com](http://www.dev-books.com/) - We analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total).
+* [javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development.
