@@ -35,3 +35,4 @@
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
 * [dev-books.com](http://www.dev-books.com/) - We analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total).
 * [javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development.
+* [thehistoryoftheweb](http://thehistoryoftheweb.com/)
