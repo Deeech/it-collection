@@ -36,3 +36,4 @@
 * [dev-books.com](http://www.dev-books.com/) - We analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total).
 * [javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development.
 * [thehistoryoftheweb](http://thehistoryoftheweb.com/)
+* [Any Api](https://any-api.com/) - Documentation and Test Consoles for Over 300 Public APIs
