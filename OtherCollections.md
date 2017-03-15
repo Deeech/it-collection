@@ -38,3 +38,4 @@
 * [thehistoryoftheweb](http://thehistoryoftheweb.com/)
 * [Any Api](https://any-api.com/) - Documentation and Test Consoles for Over 300 Public APIs.
 * [wwwhere](http://wwwhere.io/) - A curated list of tools and resources for people who make websites.
+* [+50 tech blogs & websites](https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b#.8vp6jyyu2/) - Curated on +50 tech blogs & websites such as TNW, Buffer Blog, Product Hunt, Angellist, Pickcrew, Betalist, etc.
