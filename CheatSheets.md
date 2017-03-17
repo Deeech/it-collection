@@ -22,3 +22,4 @@
 * [Data Stack Overview version 1.0](https://www.dropbox.com/s/pfbc3xcbdygmybc/Liip%20Data%20Stack.pdf?dl=0)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 * [ricostacruz](http://ricostacruz.com/cheatsheets/)
+* [programminghistory](http://blog.daveastels.com.s3-website-us-west-2.amazonaws.com/images/languages/programminghistory.jpg/)
