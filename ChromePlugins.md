@@ -46,3 +46,6 @@
 
 ## [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub and GitLab.
 ![Octotree](https://lh3.googleusercontent.com/mhU96i_fm1grjKQRkKQKm8G1MUX6Bw1YllQ_RvvXdCUVE51-6ZPQu-Em68cdlGVIIcNOGF61xLk=s1280-h800-e365-rw)
+
+## [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript and CSS resources from console, with one command.
+![Console Importer](https://lh3.googleusercontent.com/4mRoWZtQznOBkRn51vhv6i15y5CDkmEpCT5535Fh48QS8TRyOYQ11KaWiD8ta3rxnrTVrI5J9A=s1280-h800-e365-rw)
