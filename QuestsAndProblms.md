@@ -41,3 +41,4 @@
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself learning and understanding the most obscure and tricky parts of Javascript.
 * [Interview questions for data scientists](https://shapescience.xyz/blog/interview-questions-for-data-scientists/)
+* [wtfhtmlcss](http://wtfhtmlcss.com/#doctype) - A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
