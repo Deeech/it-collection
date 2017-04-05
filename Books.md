@@ -18,3 +18,4 @@
 * [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 * [craftinginterpreters](http://craftinginterpreters.com/) - A handbook for making programming languages.
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
