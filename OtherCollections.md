@@ -43,3 +43,4 @@
 * [DevDocs](http://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 * [jswiki](http://jswiki.org/)
 * [Essential JavaScript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
+* [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
