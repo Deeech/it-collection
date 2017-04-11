@@ -46,3 +46,4 @@
 * [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 * [react-bits](https://github.com/vasanthk/react-bits) - A compilation of React Patterns, techniques, tips and tricks.
 * [Made with React](http://madewithreact.com/) - A collection of websites and applications using the React or React Native JavaScript library.
+* [22-amazing-open-source-react-projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f) - 22 Amazing open source React projects.
