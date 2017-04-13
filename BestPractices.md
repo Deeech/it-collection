@@ -20,3 +20,4 @@
 * [Code review checklist](http://ana-balica.github.io/2017/02/21/code-review-checklist/)
 * [styleguides](http://styleguides.io/)
 * [carbondesignsystem](http://carbondesignsystem.com/)
+* [Typography-First](http://anartfulscience.com/Typography-First.php)
