@@ -50,4 +50,5 @@
 ## [Console Importer](https://chrome.google.com/webstore/detail/console-importer/hgajpakhafplebkdljleajgbpdmplhie) - Import JavaScript and CSS resources from console, with one command.
 ![Console Importer](https://lh3.googleusercontent.com/4mRoWZtQznOBkRn51vhv6i15y5CDkmEpCT5535Fh48QS8TRyOYQ11KaWiD8ta3rxnrTVrI5J9A=s1280-h800-e365-rw)
 
-[grammarly](https://www.grammarly.com/)
+## [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Check your spelling and grammar as you type. Boost your credibility everywhere you write!
+[![Grammarly](https://img.youtube.com/vi/wOxVMRwLfjU/0.jpg)](https://www.youtube.com/watch?v=wOxVMRwLfjU)
