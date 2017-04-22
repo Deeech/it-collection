@@ -52,3 +52,7 @@
 
 ## [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Check your spelling and grammar as you type. Boost your credibility everywhere you write!
 [![Grammarly](https://img.youtube.com/vi/wOxVMRwLfjU/0.jpg)](https://www.youtube.com/watch?v=wOxVMRwLfjU)
+
+## [CSS3 Generator](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej) - A handy generator for all of your CSS3 needs from within the browser.
+![CSS3 Generator](https://lh5.googleusercontent.com/6cc-etAcNLZ_qBpKd9JfdRRanWpK6x9ZiJJkfNnILpmrmuNSz7bUHRVSHaMwjNZtbw9Slz0i=s1280-h800-e365-rw)
+
