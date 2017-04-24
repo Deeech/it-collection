@@ -56,3 +56,7 @@
 ## [CSS3 Generator](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej) - A handy generator for all of your CSS3 needs from within the browser.
 ![CSS3 Generator](https://lh5.googleusercontent.com/6cc-etAcNLZ_qBpKd9JfdRRanWpK6x9ZiJJkfNnILpmrmuNSz7bUHRVSHaMwjNZtbw9Slz0i=s1280-h800-e365-rw)
 
+## [Tamper Chrome](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb/) - Allows the user to modify requests as they happen.
+![Tamper Chrome](https://lh6.googleusercontent.com/FclBZFugUtmnnqpiLbTt8HP_6fU8OklvK1QQxs0qyht10H4nwjc8WJy13kbCSGc6Gfc8_OARzA=s1280-h800-e365-rw)
+
+
