@@ -47,4 +47,5 @@
 * [react-bits](https://github.com/vasanthk/react-bits) - A compilation of React Patterns, techniques, tips and tricks.
 * [Made with React](http://madewithreact.com/) - A collection of websites and applications using the React or React Native JavaScript library.
 * [22-amazing-open-source-react-projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f) - 22 Amazing open source React projects.
-* [18-amazing-open-source-angular-projects](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee) - 18 Amazing open source Angular projects
+* [18-amazing-open-source-angular-projects](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee) - 18 Amazing open source Angular projects.
+* [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
