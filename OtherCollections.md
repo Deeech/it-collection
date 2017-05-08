@@ -49,4 +49,5 @@
 * [22-amazing-open-source-react-projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f) - 22 Amazing open source React projects.
 * [18-amazing-open-source-angular-projects](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee) - 18 Amazing open source Angular projects.
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
-* [project-based-learning](https://github.com/tuvttran/project-based-learning) - Curated list of project-based tutorials.
+* [project-based-learning](https://github.com/tuvttran/project-based-learning) - Curated list of project-based tutorials
+* [Essential JavaScript Links](https://gist.github.com/tonymtz/3c11d75fa7ba7e682355) - A curated list by Eric Elliott and friends. Suggest links in the comments below.
