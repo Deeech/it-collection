@@ -51,3 +51,4 @@
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 * [project-based-learning](https://github.com/tuvttran/project-based-learning) - Curated list of project-based tutorials
 * [Essential JavaScript Links](https://gist.github.com/tonymtz/3c11d75fa7ba7e682355) - A curated list by Eric Elliott and friends. Suggest links in the comments below.
+* [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) - It is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
