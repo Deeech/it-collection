@@ -54,3 +54,4 @@
 * [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) - It is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [mockupcatalog](https://www.mockupcatalog.com/) - Free Graphic Design Resources.
+* [TodoMVC for the RealWorld™](https://github.com/gothinkster/realworld) - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
