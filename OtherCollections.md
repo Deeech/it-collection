@@ -53,3 +53,4 @@
 * [Essential JavaScript Links](https://gist.github.com/tonymtz/3c11d75fa7ba7e682355) - A curated list by Eric Elliott and friends. Suggest links in the comments below.
 * [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) - It is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [mockupcatalog](https://www.mockupcatalog.com/) - Free Graphic Design Resources.

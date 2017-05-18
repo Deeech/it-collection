@@ -21,3 +21,4 @@
 * [styleguides](http://styleguides.io/)
 * [carbondesignsystem](http://carbondesignsystem.com/)
 * [Typography-First](http://anartfulscience.com/Typography-First.php)
+* [check!](http://mrgan.com/check/) - A checklist of small tasks to complete BEFORE you launch your new thing.
