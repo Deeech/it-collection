@@ -44,3 +44,4 @@
 * [wtfhtmlcss](http://wtfhtmlcss.com/#doctype) - A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
 * [know-it-all](https://know-it-all.io/)
 * [return true to win](https://alf.nu/ReturnTrue)
+* [how-not-to-succeed-in-your-45-minute-coding-interview](https://dev.to/fahimulhaq/how-not-to-succeed-in-your-45-minute-coding-interview)
