@@ -14,3 +14,4 @@
 
 
 # Quizes
+[typing.io](https://typing.io/) - Practice typing the awkward characters in code.
