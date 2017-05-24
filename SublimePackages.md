@@ -28,3 +28,7 @@ Bracket Highlighter matches a variety of brackets such as: `[]`, `()`, `{}`, `""
 ![Sublime Tutor](https://packagecontrol.io/readmes/img/8a876ea4cb149d10e5df5430a18daaca58e88603.jpg)
 
 An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3.
+
+## [csscomb](https://github.com/csscomb/sublime-csscomb)
+
+Sublime plugin for CSScomb—CSS coding style formatter.
