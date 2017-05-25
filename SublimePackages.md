@@ -32,3 +32,7 @@ An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3.
 ## [csscomb](https://github.com/csscomb/sublime-csscomb)
 
 Sublime plugin for CSScomb—CSS coding style formatter.
+
+## [Sublime SFTP](https://wbond.net/sublime_packages/sftp)
+
+Spend less time managing file transfers and more time coding. FTP, FTPS and SFTP support for Sublime Text 2 & 3 that is blazing fast, with smart features, flexible workflow options and top-notch support.
