@@ -40,3 +40,7 @@ Spend less time managing file transfers and more time coding. FTP, FTPS and SFTP
 ## [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 
 Sublime Text plugin that autocompletes filenames.
+
+## [SublimeAllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
+
+Extend Sublime autocompletion to find matches in all open files of the current window.
