@@ -55,3 +55,4 @@
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [mockupcatalog](https://www.mockupcatalog.com/) - Free Graphic Design Resources.
 * [TodoMVC for the RealWorld™](https://github.com/gothinkster/realworld) - Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.
+* [react-in-patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
