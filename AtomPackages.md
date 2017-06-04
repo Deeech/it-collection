@@ -14,7 +14,7 @@
 
 
 # Atom Packages
-## [EasyMotion](https://github.com/mrodalgaard/atom-todo-show)
-[![Animated Gif](https://raw.githubusercontent.com/mrodalgaard/atom-todo-show/master/screenshots/preview.png)](https://github.com/mrodalgaard/atom-todo-show)
+## [Todo Show](https://github.com/mrodalgaard/atom-todo-show)
+[![Todo Show](https://raw.githubusercontent.com/mrodalgaard/atom-todo-show/master/screenshots/preview.png)](https://github.com/mrodalgaard/atom-todo-show)
 
 Atom package that shows a list of todos from your project.
