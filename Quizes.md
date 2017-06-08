@@ -14,5 +14,5 @@
 
 
 # Quizes
-[typing.io](https://typing.io/) - Practice typing the awkward characters in code.
-[checkio](https://js.checkio.org/) - CheckiO is a code game coders. Where players can solve puzzles and share their solutions.
+* [typing.io](https://typing.io/) - Practice typing the awkward characters in code.
+* [checkio](https://js.checkio.org/) - CheckiO is a code game coders. Where players can solve puzzles and share their solutions.
