@@ -25,3 +25,4 @@
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/) - This application is a living style guide, generated from KSS documented styles.
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [Front-end Style Guides](http://www.maban.co.uk/projects/front-end-style-guides/)
+* [phptherightway](http://www.phptherightway.com/)
